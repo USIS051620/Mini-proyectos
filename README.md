@@ -6,7 +6,7 @@
 <br><br>
 
 <p align="center">
-  <img height="330px" alt="Tercera Imagen" src="https://drive.google.com/uc?export=view&id=1tGMQKUr3CRvko3NWF_Lqxm3DmTpIo9Y_" />
+  <img width="400px" alt="Tercera Imagen" src="https://drive.google.com/uc?export=view&id=1tGMQKUr3CRvko3NWF_Lqxm3DmTpIo9Y_" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="330px" alt="Cuarta Imagen" src="https://drive.google.com/uc?export=view&id=1OckDSfLSX9AnTFvf4dabABAM3DbmLbTy" />
+  <img width="400px" alt="Cuarta Imagen" src="https://drive.google.com/uc?export=view&id=1OckDSfLSX9AnTFvf4dabABAM3DbmLbTy" />
 </p>
